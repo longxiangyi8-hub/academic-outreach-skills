@@ -1,0 +1,18 @@
+.DS_Store
+.idea/
+.vscode/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Applicant data and generated research outputs
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.csv
+data/
+output/
+outputs/
