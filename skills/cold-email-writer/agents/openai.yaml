@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cold Email Writer"
+  short_description: "按 CV 与导师方向评估匹配并生成英文邮件草稿"
+  default_prompt: "使用 $cold-email-writer 读取我的 CV 和导师名单，评估匹配度并生成可审核的英文联系邮件草稿。"
