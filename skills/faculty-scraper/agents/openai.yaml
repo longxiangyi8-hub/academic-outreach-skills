@@ -1,0 +1,4 @@
+interface:
+  display_name: "Faculty Scraper"
+  short_description: "从院系官网核验并整理可追溯的导师名单"
+  default_prompt: "使用 $faculty-scraper 从指定院系官网整理导师信息并安全更新我的表格。"
